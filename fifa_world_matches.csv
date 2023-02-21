@@ -1,0 +1,822 @@
+home,score,away,year
+France ,4–1, Mexico,year
+Argentina ,1–0, France,year
+Chile ,3–0, Mexico,year
+Chile ,1–0, France,year
+Argentina ,6–3, Mexico,year
+Argentina ,3–1, Chile,year
+Yugoslavia ,2–1, Brazil,year
+Yugoslavia ,4–0, Bolivia,year
+Brazil ,4–0, Bolivia,year
+Romania ,3–1, Peru,year
+Uruguay ,1–0, Peru,year
+Uruguay ,4–0, Romania,year
+United States ,3–0, Belgium,year
+United States ,3–0, Paraguay,year
+Paraguay ,1–0, Belgium,year
+Argentina ,6–1, United States,year
+Uruguay ,6–1, Yugoslavia,year
+Uruguay ,4–2, Argentina,year
+Spain ,3–1, Brazil,year
+Hungary ,4–2, Egypt,year
+Switzerland ,3–2, Netherlands,year
+Italy ,7–1, United States,year
+Czechoslovakia ,2–1, Romania,year
+Sweden ,3–2, Argentina,year
+Austria ,3–2 (a.e.t.), France,year
+Germany ,5–2, Belgium,year
+Austria ,2–1, Hungary,year
+Italy ,1–1 (a.e.t.), Spain,year
+Germany ,2–1, Sweden,year
+Czechoslovakia ,3–2, Switzerland,year
+Italy ,1–0, Spain,year
+Italy ,1–0, Austria,year
+Czechoslovakia ,3–1, Germany,year
+Germany ,3–2, Austria,year
+Italy ,2–1 (a.e.t.), Czechoslovakia,year
+Switzerland ,1–1 (a.e.t.), Germany,year
+Hungary ,6–0, Dutch East Indies,year
+Sweden ,w/o[a], Austria,year
+Cuba ,3–3 (a.e.t.), Romania,year
+France ,3–1, Belgium,year
+Italy ,2–1 (a.e.t.), Norway,year
+Brazil ,6–5 (a.e.t.), Poland,year
+Czechoslovakia ,3–0 (a.e.t.), Netherlands,year
+Switzerland ,4–2, Germany,year
+Cuba ,2–1, Romania,year
+Hungary ,2–0, Switzerland,year
+Sweden ,8–0, Cuba,year
+Italy ,3–1, France,year
+Brazil ,1–1 (a.e.t.), Czechoslovakia,year
+Brazil ,2–1, Czechoslovakia,year
+Hungary ,5–1, Sweden,year
+Italy ,2–1, Brazil,year
+Brazil ,4–2, Sweden,year
+Italy ,4–2, Hungary,year
+Brazil ,4–0, Mexico,year
+Yugoslavia ,3–0, Switzerland,year
+Brazil ,2–2, Switzerland,year
+Yugoslavia ,4–1, Mexico,year
+Brazil ,2–0, Yugoslavia,year
+Switzerland ,2–1, Mexico,year
+England ,2–0, Chile,year
+Spain ,3–1, United States,year
+Spain ,2–0, Chile,year
+United States ,1–0, England,year
+Spain ,1–0, England,year
+Chile ,5–2, United States,year
+Sweden ,3–2, Italy,year
+Sweden ,2–2, Paraguay,year
+Italy ,2–0, Paraguay,year
+Uruguay ,8–0, Bolivia,year
+Uruguay ,2–2, Spain,year
+Brazil ,7–1, Sweden,year
+Brazil ,6–1, Spain,year
+Uruguay ,3–2, Sweden,year
+Sweden ,3–1, Spain,year
+Uruguay ,2–1, Brazil,year
+Brazil ,5–0, Mexico,year
+Yugoslavia ,1–0, France,year
+Brazil ,1–1 (a.e.t.), Yugoslavia,year
+France ,3–2, Mexico,year
+West Germany ,4–1, Turkey,year
+Hungary ,9–0, South Korea,year
+Hungary ,8–3, West Germany,year
+Turkey ,7–0, South Korea,year
+West Germany ,7–2, Turkey,year
+Uruguay ,2–0, Czechoslovakia,year
+Austria ,1–0, Scotland,year
+Uruguay ,7–0, Scotland,year
+Austria ,5–0, Czechoslovakia,year
+Switzerland ,2–1, Italy,year
+England ,4–4 (a.e.t.), Belgium,year
+Italy ,4–1, Belgium,year
+England ,2–0, Switzerland,year
+Switzerland ,4–1, Italy,year
+Austria ,7–5, Switzerland,year
+Uruguay ,4–2, England,year
+West Germany ,2–0, Yugoslavia,year
+Hungary ,4–2, Brazil,year
+West Germany ,6–1, Austria,year
+Hungary ,4–2 (a.e.t.), Uruguay,year
+Austria ,3–1, Uruguay,year
+West Germany ,3–2, Hungary,year
+Argentina ,1–3, West Germany,year
+Northern Ireland ,1–0, Czechoslovakia,year
+West Germany ,2–2, Czechoslovakia,year
+Argentina ,3–1, Northern Ireland,year
+West Germany ,2–2, Northern Ireland,year
+Czechoslovakia ,6–1, Argentina,year
+Northern Ireland ,2–1 (a.e.t.), Czechoslovakia,year
+France ,7–3, Paraguay,year
+Yugoslavia ,1–1, Scotland,year
+Yugoslavia ,3–2, France,year
+Paraguay ,3–2, Scotland,year
+France ,2–1, Scotland,year
+Paraguay ,3–3, Yugoslavia,year
+Sweden ,3–0, Mexico,year
+Hungary ,1–1, Wales,year
+Mexico ,1–1, Wales,year
+Sweden ,2–1, Hungary,year
+Sweden ,0–0, Wales,year
+Hungary ,4–0, Mexico,year
+Wales ,2–1, Hungary,year
+Brazil ,3–0, Austria,year
+Soviet Union ,2–2, England,year
+Brazil ,0–0, England,year
+Soviet Union ,2–0, Austria,year
+England ,2–2, Austria,year
+Brazil ,2–0, Soviet Union,year
+Soviet Union ,1–0, England,year
+Brazil ,1–0, Wales,year
+France ,4–0, Northern Ireland,year
+Sweden ,2–0, Soviet Union,year
+West Germany ,1–0, Yugoslavia,year
+Brazil ,5–2, France,year
+Sweden ,3–1, West Germany,year
+France ,6–3, West Germany,year
+Brazil ,5–2, Sweden,year
+Uruguay ,2–1, Colombia,year
+Soviet Union ,2–0, Yugoslavia,year
+Yugoslavia ,3–1, Uruguay,year
+Soviet Union ,4–4, Colombia,year
+Soviet Union ,2–1, Uruguay,year
+Yugoslavia ,5–0, Colombia,year
+Chile ,3–1, Switzerland,year
+West Germany ,0–0, Italy,year
+Chile ,2–0, Italy,year
+West Germany ,2–1, Switzerland,year
+West Germany ,2–0, Chile,year
+Italy ,3–0, Switzerland,year
+Brazil ,2–0, Mexico,year
+Czechoslovakia ,1–0, Spain,year
+Brazil ,0–0, Czechoslovakia,year
+Spain ,1–0, Mexico,year
+Brazil ,2–1, Spain,year
+Mexico ,3–1, Czechoslovakia,year
+Argentina ,1–0, Bulgaria,year
+Hungary ,2–1, England,year
+England ,3–1, Argentina,year
+Hungary ,6–1, Bulgaria,year
+Hungary ,0–0, Argentina,year
+England ,0–0, Bulgaria,year
+Chile ,2–1, Soviet Union,year
+Czechoslovakia ,1–0, Hungary,year
+Brazil ,3–1, England,year
+Yugoslavia ,1–0, West Germany,year
+Czechoslovakia ,3–1, Yugoslavia,year
+Brazil ,4–2, Chile,year
+Chile ,1–0, Yugoslavia,year
+Brazil ,3–1, Czechoslovakia,year
+England ,0–0, Uruguay,year
+France ,1–1, Mexico,year
+Uruguay ,2–1, France,year
+England ,2–0, Mexico,year
+Mexico ,0–0, Uruguay,year
+England ,2–0, France,year
+West Germany ,5–0, Switzerland,year
+Argentina ,2–1, Spain,year
+Spain ,2–1, Switzerland,year
+Argentina ,0–0, West Germany,year
+Argentina ,2–0, Switzerland,year
+West Germany ,2–1, Spain,year
+Brazil ,2–0, Bulgaria,year
+Portugal ,3–1, Hungary,year
+Hungary ,3–1, Brazil,year
+Portugal ,3–0, Bulgaria,year
+Portugal ,3–1, Brazil,year
+Hungary ,3–1, Bulgaria,year
+Soviet Union ,3–0, North Korea,year
+Italy ,2–0, Chile,year
+Chile ,1–1, North Korea,year
+Soviet Union ,1–0, Italy,year
+North Korea ,1–0, Italy,year
+Soviet Union ,2–1, Chile,year
+England ,1–0, Argentina,year
+West Germany ,4–0, Uruguay,year
+Soviet Union ,2–1, Hungary,year
+Portugal ,5–3, North Korea,year
+West Germany ,2–1, Soviet Union,year
+England ,2–1, Portugal,year
+Portugal ,2–1, Soviet Union,year
+England ,4–2 (a.e.t.), West Germany,year
+Soviet Union ,0–1 (a.e.t.), Uruguay,year
+Italy ,4–1, Mexico,year
+Brazil ,4–2, Peru,year
+West Germany ,3–2 (a.e.t.), England,year
+Uruguay ,1–3, Brazil,year
+Italy ,4–3 (a.e.t.), West Germany,year
+Uruguay ,0–1, West Germany,year
+Brazil ,4–1, Italy,year
+Brazil ,0–1, Poland,year
+Netherlands ,1–2, West Germany,year
+Brazil ,2–1, Italy,year
+Argentina ,3–1 (a.e.t.), Netherlands,year
+Poland ,0–2, Italy,year
+West Germany ,3–3 (a.e.t.), France,year
+Poland ,3–2, France,year
+Italy ,3–1, West Germany,year
+Bulgaria ,1–1, Italy,year
+Argentina ,3–1, South Korea,year
+Italy ,1–1, Argentina,year
+South Korea ,1–1, Bulgaria,year
+South Korea ,2–3, Italy,year
+Argentina ,2–0, Bulgaria,year
+Belgium ,1–2, Mexico,year
+Paraguay ,1–0, Iraq,year
+Mexico ,1–1, Paraguay,year
+Iraq ,1–2, Belgium,year
+Paraguay ,2–2, Belgium,year
+Iraq ,0–1, Mexico,year
+Canada ,0–1, France,year
+Soviet Union ,6–0, Hungary,year
+France ,1–1, Soviet Union,year
+Hungary ,2–0, Canada,year
+Hungary ,0–3, France,year
+Soviet Union ,2–0, Canada,year
+Spain ,0–1, Brazil,year
+Algeria ,1–1, Northern Ireland,year
+Brazil ,1–0, Algeria,year
+Northern Ireland ,1–2, Spain,year
+Northern Ireland ,0–3, Brazil,year
+Algeria ,0–3, Spain,year
+Uruguay ,1–1, West Germany,year
+Scotland ,0–1, Denmark,year
+West Germany ,2–1, Scotland,year
+Denmark ,6–1, Uruguay,year
+Denmark ,2–0, West Germany,year
+Scotland ,0–0, Uruguay,year
+Morocco ,0–0, Poland,year
+Portugal ,1–0, England,year
+England ,0–0, Morocco,year
+Poland ,1–0, Portugal,year
+England ,3–0, Poland,year
+Portugal ,1–3, Morocco,year
+Mexico ,2–0, Bulgaria,year
+Soviet Union ,3–4 (a.e.t.), Belgium,year
+Brazil ,4–0, Poland,year
+Argentina ,1–0, Uruguay,year
+Italy ,0–2, France,year
+Morocco ,0–1, West Germany,year
+England ,3–0, Paraguay,year
+Denmark ,1–5, Spain,year
+Brazil ,1–1 (a.e.t.), France,year
+West Germany ,0–0 (a.e.t.), Mexico,year
+Argentina ,2–1, England,year
+Spain ,1–1 (a.e.t.), Belgium,year
+France ,0–2, West Germany,year
+Argentina ,2–0, Belgium,year
+Belgium ,2–4 (a.e.t.), France,year
+Argentina ,3–2, West Germany,year
+Italy ,1–0, Austria,year
+United States ,1–5, Czechoslovakia,year
+Italy ,1–0, United States,year
+Austria ,0–1, Czechoslovakia,year
+Italy ,2–0, Czechoslovakia,year
+Austria ,2–1, United States,year
+Argentina ,0–1, Cameroon,year
+Soviet Union ,0–2, Romania,year
+Argentina ,2–0, Soviet Union,year
+Cameroon ,2–1, Romania,year
+Argentina ,1–1, Romania,year
+Cameroon ,0–4, Soviet Union,year
+Brazil ,2–1, Sweden,year
+Costa Rica ,1–0, Scotland,year
+Brazil ,1–0, Costa Rica,year
+Sweden ,1–2, Scotland,year
+Brazil ,1–0, Scotland,year
+Sweden ,1–2, Costa Rica,year
+United Arab Emirates ,0–2, Colombia,year
+West Germany ,4–1, Yugoslavia,year
+Yugoslavia ,1–0, Colombia,year
+West Germany ,5–1, United Arab Emirates,year
+West Germany ,1–1, Colombia,year
+Yugoslavia ,4–1, United Arab Emirates,year
+Belgium ,2–0, South Korea,year
+Uruguay ,0–0, Spain,year
+Belgium ,3–1, Uruguay,year
+South Korea ,1–3, Spain,year
+Belgium ,1–2, Spain,year
+South Korea ,0–1, Uruguay,year
+England ,1–1, Republic of Ireland,year
+Netherlands ,1–1, Egypt,year
+England ,0–0, Netherlands,year
+Republic of Ireland ,0–0, Egypt,year
+England ,1–0, Egypt,year
+Republic of Ireland ,1–1, Netherlands,year
+Cameroon ,2–1 (a.e.t.), Colombia,year
+Czechoslovakia ,4–1, Costa Rica,year
+Brazil ,0–1, Argentina,year
+West Germany ,2–1, Netherlands,year
+Republic of Ireland ,0–0 (a.e.t.), Romania,year
+Italy ,2–0, Uruguay,year
+Spain ,1–2 (a.e.t.), Yugoslavia,year
+England ,1–0 (a.e.t.), Belgium,year
+Argentina ,0–0 (a.e.t.), Yugoslavia,year
+Republic of Ireland ,0–1, Italy,year
+Czechoslovakia ,0–1, West Germany,year
+Cameroon ,2–3 (a.e.t.), England,year
+Argentina ,1–1 (a.e.t.), Italy,year
+West Germany ,1–1 (a.e.t.), England,year
+Italy ,2–1, England,year
+West Germany ,1–0, Argentina,year
+United States ,1–1, Switzerland,year
+Colombia ,1–3, Romania,year
+Romania ,1–4, Switzerland,year
+United States ,2–1, Colombia,year
+Switzerland ,0–2, Colombia,year
+United States ,0–1, Romania,year
+Cameroon ,2–2, Sweden,year
+Brazil ,2–0, Russia,year
+Brazil ,3–0, Cameroon,year
+Sweden ,3–1, Russia,year
+Russia ,6–1, Cameroon,year
+Brazil ,1–1, Sweden,year
+Germany ,1–0, Bolivia,year
+Spain ,2–2, South Korea,year
+Germany ,1–1, Spain,year
+South Korea ,0–0, Bolivia,year
+Bolivia ,1–3, Spain,year
+Germany ,3–2, South Korea,year
+Argentina ,4–0, Greece,year
+Nigeria ,3–0, Bulgaria,year
+Argentina ,2–1, Nigeria,year
+Bulgaria ,4–0, Greece,year
+Argentina ,0–2, Bulgaria,year
+Greece ,0–2, Nigeria,year
+Italy ,0–1, Republic of Ireland,year
+Norway ,1–0, Mexico,year
+Italy ,1–0, Norway,year
+Mexico ,2–1, Republic of Ireland,year
+Italy ,1–1, Mexico,year
+Republic of Ireland ,0–0, Norway,year
+Belgium ,1–0, Morocco,year
+Netherlands ,2–1, Saudi Arabia,year
+Belgium ,1–0, Netherlands,year
+Saudi Arabia ,2–1, Morocco,year
+Belgium ,0–1, Saudi Arabia,year
+Morocco ,1–2, Netherlands,year
+Germany ,3–2, Belgium,year
+Spain ,3–0, Switzerland,year
+Saudi Arabia ,1–3, Sweden,year
+Romania ,3–2, Argentina,year
+Netherlands ,2–0, Republic of Ireland,year
+Brazil ,1–0, United States,year
+Nigeria ,1–2 (a.e.t.), Italy,year
+Mexico ,1–1 (a.e.t.), Bulgaria,year
+Italy ,2–1, Spain,year
+Netherlands ,2–3, Brazil,year
+Bulgaria ,2–1, Germany,year
+Romania ,2–2 (a.e.t.), Sweden,year
+Bulgaria ,1–2, Italy,year
+Sweden ,0–1, Brazil,year
+Sweden ,4–0, Bulgaria,year
+Brazil ,0–0 (a.e.t.), Italy,year
+Brazil ,2–1, Scotland,year
+Morocco ,2–2, Norway,year
+Scotland ,1–1, Norway,year
+Brazil ,3–0, Morocco,year
+Scotland ,0–3, Morocco,year
+Brazil ,1–2, Norway,year
+Italy ,2–2, Chile,year
+Cameroon ,1–1, Austria,year
+Chile ,1–1, Austria,year
+Italy ,3–0, Cameroon,year
+Italy ,2–1, Austria,year
+Chile ,1–1, Cameroon,year
+Saudi Arabia ,0–1, Denmark,year
+France ,3–0, South Africa,year
+South Africa ,1–1, Denmark,year
+France ,4–0, Saudi Arabia,year
+France ,2–1, Denmark,year
+South Africa ,2–2, Saudi Arabia,year
+Paraguay ,0–0, Bulgaria,year
+Spain ,2–3, Nigeria,year
+Nigeria ,1–0, Bulgaria,year
+Spain ,0–0, Paraguay,year
+Nigeria ,1–3, Paraguay,year
+Spain ,6–1, Bulgaria,year
+South Korea ,1–3, Mexico,year
+Netherlands ,0–0, Belgium,year
+Belgium ,2–2, Mexico,year
+Netherlands ,5–0, South Korea,year
+Netherlands ,2–2, Mexico,year
+Belgium ,1–1, South Korea,year
+FR Yugoslavia ,1–0, Iran,year
+Germany ,2–0, United States,year
+Germany ,2–2, FR Yugoslavia,year
+United States ,1–2, Iran,year
+Germany ,2–0, Iran,year
+United States ,0–1, FR Yugoslavia,year
+England ,2–0, Tunisia,year
+Romania ,1–0, Colombia,year
+Colombia ,1–0, Tunisia,year
+Romania ,2–1, England,year
+Colombia ,0–2, England,year
+Romania ,1–1, Tunisia,year
+Argentina ,1–0, Japan,year
+Jamaica ,1–3, Croatia,year
+Japan ,0–1, Croatia,year
+Argentina ,5–0, Jamaica,year
+Argentina ,1–0, Croatia,year
+Japan ,1–2, Jamaica,year
+Italy ,1–0, Norway,year
+Brazil ,4–1, Chile,year
+France ,1–0 (a.e.t.), Paraguay,year
+Nigeria ,1–4, Denmark,year
+Germany ,2–1, Mexico,year
+Netherlands ,2–1, FR Yugoslavia,year
+Romania ,0–1, Croatia,year
+Argentina ,2–2 (a.e.t.), England,year
+Italy ,0–0 (a.e.t.), France,year
+Brazil ,3–2, Denmark,year
+Netherlands ,2–1, Argentina,year
+Germany ,0–3, Croatia,year
+Brazil ,1–1 (a.e.t.), Netherlands,year
+France ,2–1, Croatia,year
+Netherlands ,1–2, Croatia,year
+Brazil ,0–3, France,year
+France ,0–1, Senegal,year
+Uruguay ,1–2, Denmark,year
+Denmark ,1–1, Senegal,year
+France ,0–0, Uruguay,year
+Denmark ,2–0, France,year
+Senegal ,3–3, Uruguay,year
+Paraguay ,2–2, South Africa,year
+Spain ,3–1, Slovenia,year
+Spain ,3–1, Paraguay,year
+South Africa ,1–0, Slovenia,year
+South Africa ,2–3, Spain,year
+Slovenia ,1–3, Paraguay,year
+Brazil ,2–1, Turkey,year
+China ,0–2, Costa Rica,year
+Brazil ,4–0, China,year
+Costa Rica ,1–1, Turkey,year
+Costa Rica ,2–5, Brazil,year
+Turkey ,3–0, China,year
+South Korea ,2–0, Poland,year
+United States ,3–2, Portugal,year
+South Korea ,1–1, United States,year
+Portugal ,4–0, Poland,year
+Portugal ,0–1, South Korea,year
+Poland ,3–1, United States,year
+Republic of Ireland ,1–1, Cameroon,year
+Germany ,8–0, Saudi Arabia,year
+Germany ,1–1, Republic of Ireland,year
+Cameroon ,1–0, Saudi Arabia,year
+Cameroon ,0–2, Germany,year
+Saudi Arabia ,0–3, Republic of Ireland,year
+Argentina ,1–0, Nigeria,year
+England ,1–1, Sweden,year
+Sweden ,2–1, Nigeria,year
+Argentina ,0–1, England,year
+Sweden ,1–1, Argentina,year
+Nigeria ,0–0, England,year
+Croatia ,0–1, Mexico,year
+Italy ,2–0, Ecuador,year
+Italy ,1–2, Croatia,year
+Mexico ,2–1, Ecuador,year
+Mexico ,1–1, Italy,year
+Ecuador ,1–0, Croatia,year
+Japan ,2–2, Belgium,year
+Russia ,2–0, Tunisia,year
+Japan ,1–0, Russia,year
+Tunisia ,1–1, Belgium,year
+Tunisia ,0–2, Japan,year
+Belgium ,3–2, Russia,year
+Germany ,1–0, Paraguay,year
+Denmark ,0–3, England,year
+Sweden ,1–2 (a.e.t.), Senegal,year
+Spain ,1–1 (a.e.t.), Republic of Ireland,year
+Mexico ,0–2, United States,year
+Brazil ,2–0, Belgium,year
+Japan ,0–1, Turkey,year
+South Korea ,2–1 (a.e.t.), Italy,year
+England ,1–2, Brazil,year
+Germany ,1–0, United States,year
+Spain ,0–0 (a.e.t.), South Korea,year
+Senegal ,0–1 (a.e.t.), Turkey,year
+Germany ,1–0, South Korea,year
+Brazil ,1–0, Turkey,year
+South Korea ,2–3, Turkey,year
+Germany ,0–2, Brazil,year
+Germany ,4–2, Costa Rica,year
+Poland ,0–2, Ecuador,year
+Germany ,1–0, Poland,year
+Ecuador ,3–0, Costa Rica,year
+Ecuador ,0–3, Germany,year
+Costa Rica ,1–2, Poland,year
+England ,1–0, Paraguay,year
+Trinidad and Tobago ,0–0, Sweden,year
+England ,2–0, Trinidad and Tobago,year
+Sweden ,1–0, Paraguay,year
+Sweden ,2–2, England,year
+Paraguay ,2–0, Trinidad and Tobago,year
+Argentina ,2–1, Ivory Coast,year
+Serbia and Montenegro ,0–1, Netherlands,year
+Argentina ,6–0, Serbia and Montenegro,year
+Netherlands ,2–1, Ivory Coast,year
+Netherlands ,0–0, Argentina,year
+Ivory Coast ,3–2, Serbia and Montenegro,year
+Mexico ,3–1, Iran,year
+Angola ,0–1, Portugal,year
+Mexico ,0–0, Angola,year
+Portugal ,2–0, Iran,year
+Portugal ,2–1, Mexico,year
+Iran ,1–1, Angola,year
+United States ,0–3, Czech Republic,year
+Italy ,2–0, Ghana,year
+Czech Republic ,0–2, Ghana,year
+Italy ,1–1, United States,year
+Czech Republic ,0–2, Italy,year
+Ghana ,2–1, United States,year
+Australia ,3–1, Japan,year
+Brazil ,1–0, Croatia,year
+Japan ,0–0, Croatia,year
+Brazil ,2–0, Australia,year
+Japan ,1–4, Brazil,year
+Croatia ,2–2, Australia,year
+South Korea ,2–1, Togo,year
+France ,0–0, Switzerland,year
+France ,1–1, South Korea,year
+Togo ,0–2, Switzerland,year
+Togo ,0–2, France,year
+Switzerland ,2–0, South Korea,year
+Spain ,4–0, Ukraine,year
+Tunisia ,2–2, Saudi Arabia,year
+Saudi Arabia ,0–4, Ukraine,year
+Spain ,3–1, Tunisia,year
+Saudi Arabia ,0–1, Spain,year
+Ukraine ,1–0, Tunisia,year
+Germany ,2–0, Sweden,year
+Argentina ,2–1 (a.e.t.), Mexico,year
+England ,1–0, Ecuador,year
+Portugal ,1–0, Netherlands,year
+Italy ,1–0, Australia,year
+Switzerland ,0–0 (a.e.t.), Ukraine,year
+Brazil ,3–0, Ghana,year
+Spain ,1–3, France,year
+Germany ,1–1 (a.e.t.), Argentina,year
+Italy ,3–0, Ukraine,year
+England ,0–0 (a.e.t.), Portugal,year
+Brazil ,0–1, France,year
+Germany ,0–2 (a.e.t.), Italy,year
+Portugal ,0–1, France,year
+Germany ,3–1, Portugal,year
+Italy ,1–1 (a.e.t.), France,year
+South Africa ,1–1, Mexico,year
+Uruguay ,0–0, France,year
+South Africa ,0–3, Uruguay,year
+France ,0–2, Mexico,year
+Mexico ,0–1, Uruguay,year
+France ,1–2, South Africa,year
+South Korea ,2–0, Greece,year
+Argentina ,1–0, Nigeria,year
+Argentina ,4–1, South Korea,year
+Greece ,2–1, Nigeria,year
+Nigeria ,2–2, South Korea,year
+Greece ,0–2, Argentina,year
+England ,1–1, United States,year
+Algeria ,0–1, Slovenia,year
+Slovenia ,2–2, United States,year
+England ,0–0, Algeria,year
+Slovenia ,0–1, England,year
+United States ,1–0, Algeria,year
+Serbia ,0–1, Ghana,year
+Germany ,4–0, Australia,year
+Germany ,0–1, Serbia,year
+Ghana ,1–1, Australia,year
+Ghana ,0–1, Germany,year
+Australia ,2–1, Serbia,year
+Netherlands ,2–0, Denmark,year
+Japan ,1–0, Cameroon,year
+Netherlands ,1–0, Japan,year
+Cameroon ,1–2, Denmark,year
+Denmark ,1–3, Japan,year
+Cameroon ,1–2, Netherlands,year
+Italy ,1–1, Paraguay,year
+New Zealand ,1–1, Slovakia,year
+Slovakia ,0–2, Paraguay,year
+Italy ,1–1, New Zealand,year
+Slovakia ,3–2, Italy,year
+Paraguay ,0–0, New Zealand,year
+Ivory Coast ,0–0, Portugal,year
+Brazil ,2–1, North Korea,year
+Brazil ,3–1, Ivory Coast,year
+Portugal ,7–0, North Korea,year
+Portugal ,0–0, Brazil,year
+North Korea ,0–3, Ivory Coast,year
+Honduras ,0–1, Chile,year
+Spain ,0–1, Switzerland,year
+Chile ,1–0, Switzerland,year
+Spain ,2–0, Honduras,year
+Chile ,1–2, Spain,year
+Switzerland ,0–0, Honduras,year
+Uruguay ,2–1, South Korea,year
+United States ,1–2 (a.e.t.), Ghana,year
+Germany ,4–1, England,year
+Argentina ,3–1, Mexico,year
+Netherlands ,2–1, Slovakia,year
+Brazil ,3–0, Chile,year
+Paraguay ,0–0 (a.e.t.), Japan,year
+Spain ,1–0, Portugal,year
+Netherlands ,2–1, Brazil,year
+Uruguay ,1–1 (a.e.t.), Ghana,year
+Argentina ,0–4, Germany,year
+Paraguay ,0–1, Spain,year
+Uruguay ,2–3, Netherlands,year
+Germany ,0–1, Spain,year
+Uruguay ,2–3, Germany,year
+Netherlands ,0–1 (a.e.t.), Spain,year
+Brazil ,3–1, Croatia,year
+Mexico ,1–0, Cameroon,year
+Brazil ,0–0, Mexico,year
+Cameroon ,0–4, Croatia,year
+Cameroon ,1–4, Brazil,year
+Croatia ,1–3, Mexico,year
+Spain ,1–5, Netherlands,year
+Chile ,3–1, Australia,year
+Australia ,2–3, Netherlands,year
+Spain ,0–2, Chile,year
+Australia ,0–3, Spain,year
+Netherlands ,2–0, Chile,year
+Colombia ,3–0, Greece,year
+Ivory Coast ,2–1, Japan,year
+Colombia ,2–1, Ivory Coast,year
+Japan ,0–0, Greece,year
+Japan ,1–4, Colombia,year
+Greece ,2–1, Ivory Coast,year
+Uruguay ,1–3, Costa Rica,year
+England ,1–2, Italy,year
+Uruguay ,2–1, England,year
+Italy ,0–1, Costa Rica,year
+Italy ,0–1, Uruguay,year
+Costa Rica ,0–0, England,year
+Switzerland ,2–1, Ecuador,year
+France ,3–0, Honduras,year
+Switzerland ,2–5, France,year
+Honduras ,1–2, Ecuador,year
+Honduras ,0–3, Switzerland,year
+Ecuador ,0–0, France,year
+Argentina ,2–1, Bosnia and Herzegovina,year
+Iran ,0–0, Nigeria,year
+Argentina ,1–0, Iran,year
+Nigeria ,1–0, Bosnia and Herzegovina,year
+Nigeria ,2–3, Argentina,year
+Bosnia and Herzegovina ,3–1, Iran,year
+Germany ,4–0, Portugal,year
+Ghana ,1–2, United States,year
+Germany ,2–2, Ghana,year
+United States ,2–2, Portugal,year
+United States ,0–1, Germany,year
+Portugal ,2–1, Ghana,year
+Belgium ,2–1, Algeria,year
+Russia ,1–1, South Korea,year
+Belgium ,1–0, Russia,year
+South Korea ,2–4, Algeria,year
+South Korea ,0–1, Belgium,year
+Algeria ,1–1, Russia,year
+Brazil ,1–1 (a.e.t.), Chile,year
+Colombia ,2–0, Uruguay,year
+Netherlands ,2–1, Mexico,year
+Costa Rica ,1–1 (a.e.t.), Greece,year
+France ,2–0, Nigeria,year
+Germany ,2–1 (a.e.t.), Algeria,year
+Argentina ,1–0 (a.e.t.), Switzerland,year
+Belgium ,2–1 (a.e.t.), United States,year
+France ,0–1, Germany,year
+Brazil ,2–1, Colombia,year
+Argentina ,1–0, Belgium,year
+Netherlands ,0–0 (a.e.t.), Costa Rica,year
+Brazil ,1–7, Germany,year
+Netherlands ,0–0 (a.e.t.), Argentina,year
+Brazil ,0–3, Netherlands,year
+Germany ,1–0 (a.e.t.), Argentina,year
+Russia ,5–0, Saudi Arabia,year
+Egypt ,0–1, Uruguay,year
+Russia ,3–1, Egypt,year
+Uruguay ,1–0, Saudi Arabia,year
+Uruguay ,3–0, Russia,year
+Saudi Arabia ,2–1, Egypt,year
+Morocco ,0–1, Iran,year
+Portugal ,3–3, Spain,year
+Portugal ,1–0, Morocco,year
+Iran ,0–1, Spain,year
+Iran ,1–1, Portugal,year
+Spain ,2–2, Morocco,year
+France ,2–1, Australia,year
+Peru ,0–1, Denmark,year
+Denmark ,1–1, Australia,year
+France ,1–0, Peru,year
+Denmark ,0–0, France,year
+Australia ,0–2, Peru,year
+Argentina ,1–1, Iceland,year
+Croatia ,2–0, Nigeria,year
+Argentina ,0–3, Croatia,year
+Nigeria ,2–0, Iceland,year
+Nigeria ,1–2, Argentina,year
+Iceland ,1–2, Croatia,year
+Costa Rica ,0–1, Serbia,year
+Brazil ,1–1, Switzerland,year
+Brazil ,2–0, Costa Rica,year
+Serbia ,1–2, Switzerland,year
+Serbia ,0–2, Brazil,year
+Switzerland ,2–2, Costa Rica,year
+Germany ,0–1, Mexico,year
+Sweden ,1–0, South Korea,year
+South Korea ,1–2, Mexico,year
+Germany ,2–1, Sweden,year
+South Korea ,2–0, Germany,year
+Mexico ,0–3, Sweden,year
+Belgium ,3–0, Panama,year
+Tunisia ,1–2, England,year
+Belgium ,5–2, Tunisia,year
+England ,6–1, Panama,year
+England ,0–1, Belgium,year
+Panama ,1–2, Tunisia,year
+Colombia ,1–2, Japan,year
+Poland ,1–2, Senegal,year
+Japan ,2–2, Senegal,year
+Poland ,0–3, Colombia,year
+Japan ,0–1, Poland,year
+Senegal ,0–1, Colombia,year
+France ,4–3, Argentina,year
+Uruguay ,2–1, Portugal,year
+Spain ,1–1 (a.e.t.), Russia,year
+Croatia ,1–1 (a.e.t.), Denmark,year
+Brazil ,2–0, Mexico,year
+Belgium ,3–2, Japan,year
+Sweden ,1–0, Switzerland,year
+Colombia ,1–1 (a.e.t.), England,year
+Uruguay ,0–2, France,year
+Brazil ,1–2, Belgium,year
+Sweden ,0–2, England,year
+Russia ,2–2 (a.e.t.), Croatia,year
+France ,1–0, Belgium,year
+Croatia ,2–1 (a.e.t.), England,year
+Belgium ,2–0, England,year
+France ,4–2, Croatia,year
+Qatar ,0–2, Ecuador,year
+Senegal ,0–2, Netherlands,year
+Qatar ,1–3, Senegal,year
+Netherlands ,1–1, Ecuador,year
+Ecuador ,1–2, Senegal,year
+Netherlands ,2–0, Qatar,year
+England ,6–2, Iran,year
+United States ,1–1, Wales,year
+Wales ,0–2, Iran,year
+England ,0–0, United States,year
+Wales ,0–3, England,year
+Iran ,0–1, United States,year
+Argentina ,1–2, Saudi Arabia,year
+Mexico ,0–0, Poland,year
+Poland ,2–0, Saudi Arabia,year
+Argentina ,2–0, Mexico,year
+Poland ,0–2, Argentina,year
+Saudi Arabia ,1–2, Mexico,year
+Denmark ,0–0, Tunisia,year
+France ,4–1, Australia,year
+Tunisia ,0–1, Australia,year
+France ,2–1, Denmark,year
+Australia ,1–0, Denmark,year
+Tunisia ,1–0, France,year
+Germany ,1–2, Japan,year
+Spain ,7–0, Costa Rica,year
+Japan ,0–1, Costa Rica,year
+Spain ,1–1, Germany,year
+Japan ,2–1, Spain,year
+Costa Rica ,2–4, Germany,year
+Morocco ,0–0, Croatia,year
+Belgium ,1–0, Canada,year
+Belgium ,0–2, Morocco,year
+Croatia ,4–1, Canada,year
+Croatia ,0–0, Belgium,year
+Canada ,1–2, Morocco,year
+Switzerland ,1–0, Cameroon,year
+Brazil ,2–0, Serbia,year
+Cameroon ,3–3, Serbia,year
+Brazil ,1–0, Switzerland,year
+Serbia ,2–3, Switzerland,year
+Cameroon ,1–0, Brazil,year
+Uruguay ,0–0, South Korea,year
+Portugal ,3–2, Ghana,year
+South Korea ,2–3, Ghana,year
+Portugal ,2–0, Uruguay,year
+Ghana ,0–2, Uruguay,year
+South Korea ,2–1, Portugal,year
+Netherlands ,3–1, United States,year
+Argentina ,2–1, Australia,year
+France ,3–1, Poland,year
+England ,3–0, Senegal,year
+Japan ,1–1 (a.e.t.), Croatia,year
+Brazil ,4–1, South Korea,year
+Morocco ,0–0 (a.e.t.), Spain,year
+Portugal ,6–1, Switzerland,year
+Croatia ,1–1 (a.e.t.), Brazil,year
+Netherlands ,2–2 (a.e.t.), Argentina,year
+Morocco ,1–0, Portugal,year
+England ,1–2, France,year
+Argentina ,3–0, Croatia,year
+France ,2–0, Morocco,year
+Croatia ,2–1, Morocco,year
+Argentina ,3–3 (a.e.t.), France,year
